@@ -20,8 +20,13 @@ A chatbot that answers AI-related questions.
 pip install -r requirements.txt  
 streamlit run app.py  
 
-## 🎥 Demo
-(Add your video link)
+## 🧪 Demo Explanation
+This chatbot is a prototype AI assistant designed to help students understand AI concepts.
+
+Due to API quota limitations, responses are simulated to demonstrate how a real AI chatbot would function.
+
+## 🎥 Demo Video
+(Add your video link here)
 
 ## ✅ Strengths
 - Fast  
