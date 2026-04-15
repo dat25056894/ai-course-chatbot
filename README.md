@@ -30,7 +30,11 @@ Due to API quota limitations, responses are simulated to demonstrate how a real 
 
 ## ✅ Strengths
 - Fast  
-- Easy to use  
+- Easy to use
+
+## 📸 Screenshot
+
+![Chatbot Demo](screenshots/demo.png)
 
 ## ⚠️ Limitations
 - May give wrong answers  
