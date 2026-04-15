@@ -64,6 +64,3 @@ streamlit run app.py
 - Limited responses  
 - Depends on predefined logic  
 - Easy to use
-
-## ⚠️ Limitations
-- May give wrong answers  
