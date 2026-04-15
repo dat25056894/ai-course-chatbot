@@ -48,7 +48,7 @@ streamlit run app.py
 ---
 
 ## 🎥 Demo Video
-([Add your video link here](https://www.youtube.com/shorts/S1FE2hoqUHk))
+([Tutorial Video of creating own AI Chatbot]((https://www.youtube.com/watch?v=KY64eBjKhPo)))
 
 ---
 
