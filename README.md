@@ -25,16 +25,15 @@ This chatbot is a prototype AI assistant designed to help students understand AI
 
 Due to API quota limitations, responses are simulated to demonstrate how a real AI chatbot would function.
 
+## 📸 Screenshots
+(Add your images here if not yet)
+
 ## 🎥 Demo Video
 (Add your video link here)
 
 ## ✅ Strengths
 - Fast  
 - Easy to use
-
-## 📸 Screenshot
-
-![Chatbot Demo](screenshots/demo.png)
 
 ## ⚠️ Limitations
 - May give wrong answers  
